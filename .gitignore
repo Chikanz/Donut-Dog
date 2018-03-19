@@ -1,9 +1,11 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+/Donut\ Dog/[Ll]ibrary/
+/Donut\ Dog/[Tt]emp/
+/Donut\ Dog/[Oo]bj/
+/Donut\ Dog/[Bb]uild/
+/Donut\ Dog/[Bb]uilds/
+/Donut\ Dog/Assets/AssetStoreTools*
+/Donut\ Dog/Assets/Standard\ Assets
+/Donut\ Dog/Assets/PostProcessing
 
 # Visual Studio 2015 cache directory
 /.vs/
