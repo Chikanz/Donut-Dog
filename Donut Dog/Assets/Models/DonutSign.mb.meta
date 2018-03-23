@@ -86,6 +86,16 @@ ModelImporter:
     100156: typeMesh2
     100158: pTorus10
     100160: pTorus9
+    100162: transform34
+    100164: typeMesh3
+    100166: polySurface27
+    100168: polySurface28
+    100170: polySurface29
+    100172: polySurface30
+    100174: polySurface31
+    100176: polySurface32
+    100178: transform35
+    100180: typeMesh4
     400000: //RootNode
     400002: pCube1
     400004: pCylinder1
@@ -167,6 +177,16 @@ ModelImporter:
     400156: typeMesh2
     400158: pTorus10
     400160: pTorus9
+    400162: transform34
+    400164: typeMesh3
+    400166: polySurface27
+    400168: polySurface28
+    400170: polySurface29
+    400172: polySurface30
+    400174: polySurface31
+    400176: polySurface32
+    400178: transform35
+    400180: typeMesh4
     2300000: pCube1
     2300002: pCylinder1
     2300004: pCylinder2
@@ -183,6 +203,13 @@ ModelImporter:
     2300026: pTorus8
     2300028: pTorus10
     2300030: pTorus9
+    2300032: typeMesh3
+    2300034: polySurface27
+    2300036: polySurface28
+    2300038: polySurface29
+    2300040: polySurface30
+    2300042: polySurface31
+    2300044: polySurface32
     3300000: pCube1
     3300002: pCylinder1
     3300004: pCylinder2
@@ -199,6 +226,13 @@ ModelImporter:
     3300026: pTorus8
     3300028: pTorus10
     3300030: pTorus9
+    3300032: typeMesh3
+    3300034: polySurface27
+    3300036: polySurface28
+    3300038: polySurface29
+    3300040: polySurface30
+    3300042: polySurface31
+    3300044: polySurface32
     4300000: pCylinder1
     4300002: pTorus1
     4300004: pCube1
@@ -215,6 +249,13 @@ ModelImporter:
     4300026: pTorus8
     4300028: pTorus9
     4300030: pTorus10
+    4300032: typeMesh3
+    4300034: polySurface27
+    4300036: polySurface28
+    4300038: polySurface29
+    4300040: polySurface30
+    4300042: polySurface31
+    4300044: polySurface32
     9500000: //RootNode
   externalObjects:
   - first:
@@ -241,7 +282,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: lambert2
-    second: {fileID: 2100000, guid: 3939baee4ea4ffb43ada03f5b49f1105, type: 2}
+    second: {fileID: 2100000, guid: 7629f8929ef3c9d4cb16d795964b4d56, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -291,14 +332,14 @@ ModelImporter:
     addColliders: 0
     importVisibility: 1
     importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
+    optimizeMeshForGPU: 0
     keepQuads: 0
-    weldVertices: 1
+    weldVertices: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
