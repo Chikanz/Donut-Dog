@@ -149,6 +149,32 @@ ModelImporter:
     100282: transform114
     100284: transform115
     100286: transform116
+    100288: polySurface389
+    100290: polySurface390
+    100292: polySurface391
+    100294: polySurface392
+    100296: polySurface393
+    100298: polySurface394
+    100300: polySurface395
+    100302: polySurface396
+    100304: polySurface397
+    100306: polySurface398
+    100308: polySurface399
+    100310: polySurface400
+    100312: polySurface400 1
+    100314: transform1
+    100316: transform10
+    100318: transform11
+    100320: transform12
+    100322: transform13
+    100324: transform2
+    100326: transform3
+    100328: transform4
+    100330: transform5
+    100332: transform6
+    100334: transform7
+    100336: transform8
+    100338: transform9
     400000: //RootNode
     400002: pCylinder100
     400004: pCylinder101
@@ -293,17 +319,46 @@ ModelImporter:
     400282: transform114
     400284: transform115
     400286: transform116
+    400288: polySurface389
+    400290: polySurface390
+    400292: polySurface391
+    400294: polySurface392
+    400296: polySurface393
+    400298: polySurface394
+    400300: polySurface395
+    400302: polySurface396
+    400304: polySurface397
+    400306: polySurface398
+    400308: polySurface399
+    400310: polySurface400
+    400312: polySurface400 1
+    400314: transform1
+    400316: transform10
+    400318: transform11
+    400320: transform12
+    400322: transform13
+    400324: transform2
+    400326: transform3
+    400328: transform4
+    400330: transform5
+    400332: transform6
+    400334: transform7
+    400336: transform8
+    400338: transform9
     2300000: polySurface380
     2300002: polySurface387
     2300004: polySurface388
     2300006: //RootNode
+    2300008: polySurface400
     3300000: polySurface380
     3300002: polySurface387
     3300004: polySurface388
     3300006: //RootNode
+    3300008: polySurface400
     4300000: polySurface380
     4300002: polySurface387
     4300004: polySurface388
+    4300006: polySurface400
     9500000: //RootNode
   externalObjects:
   - first:

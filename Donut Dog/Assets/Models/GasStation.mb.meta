@@ -36,6 +36,9 @@ ModelImporter:
     100056: transform7
     100058: transform8
     100060: transform9
+    100062: pCube6
+    100064: pCube7
+    100066: pCube8
     400000: bend1Handle
     400002: //RootNode
     400004: pCube1
@@ -67,6 +70,9 @@ ModelImporter:
     400056: transform7
     400058: transform8
     400060: transform9
+    400062: pCube6
+    400064: pCube7
+    400066: pCube8
     2300000: pCube1
     2300002: pCube2
     2300004: pCube3
@@ -77,6 +83,9 @@ ModelImporter:
     2300014: polySurface4
     2300016: pCylinder7
     2300018: pCylinder8
+    2300020: pCube6
+    2300022: pCube7
+    2300024: pCube8
     3300000: pCube1
     3300002: pCube2
     3300004: pCube3
@@ -87,6 +96,9 @@ ModelImporter:
     3300014: polySurface4
     3300016: pCylinder7
     3300018: pCylinder8
+    3300020: pCube6
+    3300022: pCube7
+    3300024: pCube8
     4300000: pCube1
     4300002: pCube2
     4300004: pCube3
@@ -97,6 +109,19 @@ ModelImporter:
     4300014: polySurface4
     4300016: pCylinder7
     4300018: pCylinder8
+    4300020: pCube6
+    4300022: pCube7
+    4300024: pCube8
+    6400000: pCube1
+    6400002: pCube2
+    6400004: pCube6
+    6400006: pCube7
+    6400008: pCube8
+    6400010: pCylinder7
+    6400012: pCylinder8
+    6400014: polySurface2
+    6400016: polySurface4
+    6400018: typeMesh1
     9500000: //RootNode
   externalObjects:
   - first:
@@ -150,7 +175,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
